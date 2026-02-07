@@ -39,6 +39,6 @@ Como rodar:
 Back end:
 Clone esse repositorio na sua maquina:
 git clone https://github.com/ElevirJJ/Sistema_Financeiro.git
-Altere a senha e configure o banco de dados
+Altere a senha e configure o banco de dados com suas configs
 
 
